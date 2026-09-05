@@ -4,14 +4,14 @@
 # NOTE (2026-08-21): @owner is a placeholder that resolves to NOBODY, so
 # these rules currently enforce nothing. Replace with a real GitHub handle
 # (e.g. @IRsoctierDT) to give AGENTS.md §8's mandatory-review rule teeth.
-*                       @owner
-/agents/                @owner
-/attack/                @owner
-/detections/            @owner
-/compliance/            @owner
-/mcp/                   @owner
-/infra/                 @owner
-/.github/               @owner
-/AGENTS.md              @owner
-/DESIGN.md              @owner
-/SECURITY.md            @owner
+*                       @IRsoctierDT
+/agents/                @IRsoctierDT
+/attack/                @IRsoctierDT
+/detections/            @IRsoctierDT
+/compliance/            @IRsoctierDT
+/mcp/                   @IRsoctierDT
+/infra/                 @IRsoctierDT
+/.github/               @IRsoctierDT
+/AGENTS.md              @IRsoctierDT
+/DESIGN.md              @IRsoctierDT
+/SECURITY.md            @IRsoctierDT
